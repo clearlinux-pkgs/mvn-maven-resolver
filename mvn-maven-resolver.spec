@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-resolver
 Version  : 1.3.1
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.3.1/maven-resolver-api-1.3.1.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.3.1/maven-resolver-api-1.3.1.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/maven/resolver/maven-resolver-api/1.3.1/maven-resolver-api-1.3.1.pom
